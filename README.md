@@ -5,7 +5,7 @@
 </p>
 
 ## 🙋‍♂️About me:
-- 👨‍🎓 I'm a just graduated programmer that loves code and space.
+- 👨🏻‍💻 I'm a just graduated programmer that loves code and space.
 - 📚 I've just and i do really like programming, this is a world where the innovation never stops so i just need to never stop learning ^^.
 - 💻 Really interested in python and AI
 - 🪐 Did i said i love space?
