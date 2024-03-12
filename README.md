@@ -1,5 +1,5 @@
 <div align="center">
-        <img src='black_hole' width='500' height='300'>
+        <img src='black_hole.png' width='500' height='300'>
 </div>
 
 ## 🌐 Socials:
