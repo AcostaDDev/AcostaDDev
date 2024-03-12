@@ -54,8 +54,9 @@
  # 📫 Contact Me :)
 
 <div align=center>
-  <a href="mailto:acostadavdevelopment@gmail.com" target="top" rel="noopener noreferrer">
+  <a href="mailto:acostadavdevelopment@gmail.com" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="acosta-email"/>
+  </a>
 
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
