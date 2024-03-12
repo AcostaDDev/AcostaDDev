@@ -1,3 +1,6 @@
+<div aling="center">
+        <img src='black_hole.png' width='500' height='300'>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.daxvix._) 
