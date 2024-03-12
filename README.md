@@ -46,14 +46,14 @@
 
 # 📊 GitHub Stats:
 
-<div align=left>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDav&layout=compact&theme=github_dark"/>
 </div>
 
 ---
  - 📫 Contact Me :) 
   
-<div align=center>
+<div align=left>
      
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acostadavdevelopment@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="acosta-email"/></a>
 
