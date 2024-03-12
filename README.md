@@ -51,9 +51,9 @@
 </div>
 
 ---
- - 📫 Contact Me :) 
+ # 📫 Contact Me :) 
   
-<div align=left>
+<div align=center>
      
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acostadavdevelopment@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="acosta-email"/></a>
 
