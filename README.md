@@ -2,6 +2,12 @@
         <img src='black_hole.png' width='400' height='300'>
 </div>
 
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+AcostaDav;I+am+a+just+graduated+programmer+that+loves+code+and+space+:)+%3C3"></a>
+</p>
+
+##About me:
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.daxvix._) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-acosta-carbajo/) 
