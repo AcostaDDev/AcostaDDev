@@ -44,13 +44,14 @@
   
 
 
-- 📊 GitHub Stats:
+# 📊 GitHub Stats:
+
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDav&layout=compact&theme=github_dark"/>
 </div>
 
 ---
- # 📫 Contact Me :) 
+ - 📫 Contact Me :) 
   
 <div align=center>
      
