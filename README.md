@@ -6,7 +6,11 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page!!"></a>
 </p>
 
-## About me:
+## 🙋‍♂️About me:
+- A just graduated programmer that loves code and space.
+- I've just and i do really like programming, this is a world where the innovation never stops so i just need to never stop learning ^^.
+- Really interested in python and AI
+- Did i said i love space?
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.daxvix._) 
@@ -46,6 +50,3 @@
         <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=AcostaDav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
