@@ -7,10 +7,10 @@
 </p>
 
 ## 🙋‍♂️About me:
-- I'm a just graduated programmer that loves code and space.
-- I've just and i do really like programming, this is a world where the innovation never stops so i just need to never stop learning ^^.
-- Really interested in python and AI
-- Did i said i love space?
+- 🧑‍🦱 I'm a just graduated programmer that loves code and space.
+- 📚 I've just and i do really like programming, this is a world where the innovation never stops so i just need to never stop learning ^^.
+- 💻 Really interested in python and AI
+- 🪐 Did i said i love space?
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.daxvix._) 
