@@ -34,17 +34,12 @@
 # 📊 GitHub Stats:
 
 <div align=center>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDav&layout=compact&theme=github_dark"/>
-</div>
-
-### 😂 Random Dev Meme
-
-<div align=center>
-        <img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDav&layout=compact&theme=github_dark"/>
+  <img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
 </div>
 
 ---
 <div align=center>
-        <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 </div>
 
