@@ -51,12 +51,9 @@
 </div>
 
 ---
- # 📫 Contact Me :)
+ # 📫 Contact Me :) <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acostadavdevelopment@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="acosta-email"/></a>
 
 <div align=center>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=acostadavdevelopment@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="acosta-email"/>
-  </a>
   <br><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
