@@ -47,7 +47,9 @@
 # 📊 GitHub Stats:
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDDev&layout=compact&theme=github_dark"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDav&layout=compact&theme=github_dark"/>-->
+  <img src="https://myreadme.vercel.app/api/embed/AcostaDDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 </div>
 
 ---
