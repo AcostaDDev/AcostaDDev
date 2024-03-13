@@ -11,8 +11,15 @@
   - 🪐 Did i said i love space?
 
 ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.daxvix._) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-acosta-carbajo/) 
+
+<p align="center">
+    <a href="https://instagram.com/_.daxvix._">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
+    </a>
+    <a href="https://www.linkedin.com/in/david-acosta-carbajo/">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+  </p>
 
 # 💻 Tech Skills:
 - **Currently learning**
