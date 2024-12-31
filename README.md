@@ -5,9 +5,9 @@
 </p>
 
 ## 🙋‍♂️About me:
-  - 👨🏻‍💻 I'm a just graduated programmer that loves code and space.
-  - 📚 I've just and i do really like programming, this is a world where the innovation never stops so i just need to never stop learning ^^.
-  - 💻 Really interested in python and AI
+  - 👨🏻‍💻 I'm a Jr. Programmer that likes backend and mostly python.
+  - 📚 I do really like programming, this is a world where the innovation never stops so i just gotta never stop learning ^^.
+  - 💻 Really interested in python and i'm currently exploring fields like Data Analysis, Algoritims and Back-End web development.
   - 🪐 Did i said i love space?
 
 ## 🌐 Socials:
@@ -22,27 +22,20 @@
   </p>
 
 # 💻 Tech Skills:
-- **Currently learning**
+
+- **Main language** 
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,js,astro,linux" />
+      <img src="https://skillicons.dev/icons?i=py" />
     </a>
   </p>
 
-- **Main languages** 
+- **Other language** 
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python" />
-    </a>
-  </p>
-
-- **Front-end**
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,java,php" />
     </a>
   </p>
 
@@ -50,7 +43,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django,php,mongo,mysql,python,postgres" />
+      <img src="https://skillicons.dev/icons?i=py,django,mongo,mysql,postgres,nginx,bash,js" />
     </a>
   </p>
   
@@ -58,7 +51,7 @@
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea,linux" />
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea,linux,notion,postman,stackoverflow,ubuntu" />
     </a>
   </p>
 
