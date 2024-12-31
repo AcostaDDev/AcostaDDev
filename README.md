@@ -59,7 +59,7 @@
 
 <div align=center>
  
-  <img src="https://myreadme.vercel.app/api/embed/AcostaDDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AcostaDDev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
