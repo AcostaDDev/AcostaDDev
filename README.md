@@ -5,7 +5,7 @@
 </p>
 
 ## 🙋‍♂️About me:
-  - 👨🏻‍💻 I'm a Jr. Programmer that likes backend and mostly python.
+  - 👨🏻‍💻 I'm a Mid. Programmer that likes backend and mostly python.
   - 📚 I do really like programming, this is a world where the innovation never stops so i just gotta never stop learning ^^.
   - 💻 Really interested in python and i'm currently exploring fields like Data Analysis, Algoritims and Back-End web development.
   - 🪐 Did i said i love space?
