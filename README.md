@@ -13,9 +13,6 @@
 ## 🌐 Socials:
 
 <p align="center">
-    <a href="https://instagram.com/_.daxvix._">
-      <img src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
     <a href="https://www.linkedin.com/in/david-acosta-carbajo/">
       <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
